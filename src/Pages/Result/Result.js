@@ -24,7 +24,7 @@ const Result = ({ name, score }) => {
             backgroundColor: 'pink',
             color: '#000'
         }}
-        href='/'
+        href='/QuizzApp'
       >
         Back to homepage
       </Button>
